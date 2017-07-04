@@ -1,6 +1,6 @@
 # Screensaver
 
-Screensaver with our VR-Logo and customizable Info-box, also Date- & Time-Display.
+Screensaver for windows with our Logo as background image and customizable info box, also displays date and time.
 
 ## Usage
 
